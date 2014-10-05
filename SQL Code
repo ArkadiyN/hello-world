@@ -1,0 +1,2 @@
+select * from mytable
+where [unlike] = TRUE
